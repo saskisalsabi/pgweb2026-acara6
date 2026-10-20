@@ -1,1 +1,1 @@
-[https://github.com/saskisalsabi/pgweb2026-acara6.git] (https://github.com/saskisalsabi/pgweb2026-acara6.git)
+[https://github.com/saskisalsabi/pgweb2026-acara6.git](https://github.com/saskisalsabi/pgweb2026-acara6.git)
